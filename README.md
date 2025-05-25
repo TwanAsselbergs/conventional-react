@@ -30,4 +30,4 @@ This repository provides a clean, modern, and well-structured React project temp
 
 This project is licensed under the [MIT](LICENSE)
 License - see the [LICENSE](LICENSE) file for
-details
+details.
