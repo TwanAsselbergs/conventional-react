@@ -10,15 +10,15 @@
 
 ## Overview
 
-Conventional React Overview Description.
+This repository provides a clean, modern, and well-structured React project template following the best practices. It includes recommended folder structures, naming conventions, example components, and more. The goal is to help students and new developers set up professional-quality React applications and prepare them for real-world internships and projects.
 
 1. Front-end (`/react`)
 
-   - /react Description.
+   - Contains the complete React application setup using Vite, including components, pages, routing, styling, and configuration files following the latest conventions.
 
 2. Documents (`/docs`)
 
-   - /docs Description.
+   - Holds project-related documentation, guides, and supporting files such as Word documents or PDFs for easy reference and project management.
      
 
 ## Author(s)
