@@ -18,7 +18,7 @@ This repository provides a clean, modern, and well-structured React project temp
 
 2. Documents (`/docs`)
 
-   - Holds project-related documentation, guides, and supporting files such as Word documents or PDFs for easy reference and project management.
+   - Holds project-related documentation and supporting files such as Word documents or PDFs for easy reference and project management.
      
 
 ## Author(s)
