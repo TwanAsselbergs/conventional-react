@@ -14,7 +14,7 @@ This repository provides a clean, modern, and well-structured React project temp
 
 1. Front-end (`/react`)
 
-   - Contains the complete React application setup using Vite, TypeScript, Tailwind CSS, and React Router DOM. It also includes template components, pages, routing, styling, and configuration files following the latest conventions.
+   - Contains the complete React application setup using Vite, TypeScript, Tailwind CSS, and React Router. It also includes template components, pages, routing, styling, and configuration files following the latest conventions.
 
 2. Documents (`/docs`)
 
