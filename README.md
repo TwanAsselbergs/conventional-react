@@ -14,7 +14,7 @@ This repository provides a clean, modern, and well-structured React project temp
 
 1. Front-end (`/react`)
 
-   - Contains the complete React application setup using Vite, including components, pages, routing, styling, and configuration files following the latest conventions.
+   - Contains the complete React application setup using Vite, TypeScript, Tailwind CSS, and React Router DOM. It also includes template components, pages, routing, styling, and configuration files following the latest conventions.
 
 2. Documents (`/docs`)
 
@@ -28,6 +28,4 @@ This repository provides a clean, modern, and well-structured React project temp
 
 ## License
 
-This project is licensed under the [MIT](LICENSE)
-License - see the [LICENSE](LICENSE) file for
-details.
+This project is licensed under the [MIT](LICENSE) License - see the [LICENSE](LICENSE) file for details.
