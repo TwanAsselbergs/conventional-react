@@ -29,5 +29,5 @@ Conventional React Overview Description.
 ## License
 
 This project is licensed under the [MIT](LICENSE)
-License - see the [LICENSE.md](LICENSE) file for
+License - see the [LICENSE](LICENSE) file for
 details
