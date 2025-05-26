@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository provides a clean, modern, and well-structured React project template following the best practices. It includes recommended folder structures, naming conventions, example components, and more. The goal is to show students how to set up professional-quality React applications and prepare them for real-world internships and jobs.
+This repository provides a clean, modern, and well-structured React project template following the best practices. It includes recommended folder structures, naming conventions, example components, and more. The goal is to show students how to set up professional-quality React applications.
 
 1. Front-end (`/react`)
 
