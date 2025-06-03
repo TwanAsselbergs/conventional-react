@@ -10,7 +10,7 @@
 
 ## Overview
 
-A clean, modern, and well-structured React project template using Vite, TypeScript, Tailwind CSS, ESLint, and React Router. It is preconfigured with best practices, a recommended folder structure, and @ aliasing. The goal is to help students set up professional-quality React applications with ease.
+A clean, modern, and well-structured React project template using Vite, TypeScript, Tailwind CSS, ESLint, and React Router. It is preconfigured with best practices, a recommended folder structure, and @/ aliasing. The goal is to help students set up professional-quality React applications with ease.
 
 ## Installation
 
