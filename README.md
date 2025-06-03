@@ -18,7 +18,7 @@ A clean, modern, and well-structured React project template using Vite, TypeScri
 
 2. Open the folder in Visual Studio Code.
 
-3. Open the terminal inside Visual Studio Code, and run one of the following commands:
+3. Open the terminal within Visual Studio Code, then run one of the following commands:
 
 Using NPM?
 
