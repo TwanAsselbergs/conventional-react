@@ -1,4 +1,4 @@
-# React
+# React TypeScript
 
 ## Table of Contents
 
