@@ -46,6 +46,8 @@ Using Bun?
 cd react && bun i && bun run dev
 ```
 
+5. You're all set! Your project should be up and running.
+
 ## Folder Structure
 
 1. Front-end (`/react`)
