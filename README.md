@@ -1,4 +1,4 @@
-# Conventional React
+# React
 
 
 ## Table of Contents
