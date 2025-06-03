@@ -1,4 +1,4 @@
-# React TypeScript
+# React Template
 
 ## Table of Contents
 
@@ -19,13 +19,13 @@ Create a project folder, example: project-folder. Open the folder in Visual Stud
 Using NPM?
 
 ```
-npm create twanasselbergs/react-ts .
+npm create twanasselbergs/react-template .
 ```
 
 Using Bun?
 
 ```
-bun create twanasselbergs/react-ts .
+bun create twanasselbergs/react-template .
 ```
 
 Next, head into the react folder, install all dependencies, and run the local development server.
