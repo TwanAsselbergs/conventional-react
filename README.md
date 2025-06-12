@@ -10,9 +10,9 @@
 
 ## Overview
 
-A clean, modern, and well-structured React project template using Vite, TypeScript, Tailwind CSS, ESLint, and React Router. It's pre-configured with best practices, a recommended folder structure, and @/ aliasing. The goal is to help students set up professional-quality React applications fast and with ease.
+A React template using Vite, TypeScript, Tailwind CSS, React Router, and @/ aliasing. It's pre-configured with 2025's best practices and a recommended folder structure. The goal is to help students set up professional-quality React applications fast and with ease.
 
-## Installation
+## Want to use this template as a start for your project?
 
 1. [Install Bun](https://bun.sh/)
 
