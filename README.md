@@ -14,19 +14,19 @@ A clean, modern, and well-structured React project template using Vite, TypeScri
 
 ## Installation
 
-1. Create a new project folder (for example: project-folder).
+1. [Install Bun](https://bun.sh/)
 
-2. Open the folder in Visual Studio Code.
+2. Create a new project folder (for example: project-folder).
 
-4. [Install Bun](https://bun.sh/)
+3. Open the folder in Visual Studio Code.
 
-5. Open the terminal within Visual Studio Code, then copy and paste the following command:
+4. Open the terminal within Visual Studio Code, then copy and paste the following command:
 
 ```
 bun create twanasselbergs/react-template .
 ```
 
-6. Navigate to the react folder, install dependencies, and start the development server:
+5. Navigate to the react folder, install dependencies, and start the development server:
 
 ```
 cd react
@@ -40,7 +40,7 @@ bun i
 bun run dev
 ```
 
-7. You're all set! Your project should be up and running.
+6. You're all set! Your project should be up and running.
 
 ## Folder Structure
 
