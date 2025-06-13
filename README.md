@@ -10,7 +10,7 @@
 
 ## Overview
 
-A React template using Vite, TypeScript, Tailwind CSS, React Router, and @/ aliasing. It's pre-configured with 2025's best practices and a recommended folder structure. The goal is to help students set up professional-quality React applications fast and with ease.
+A React template using Vite, TypeScript, Tailwind CSS, React Router, and @ aliasing. It's pre-configured with 2025's best practices and a recommended folder structure. The goal is to help students set up professional-quality React applications fast and with ease.
 
 ## Want to use this template as a start for your project?
 
